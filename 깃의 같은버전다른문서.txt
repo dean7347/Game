@@ -3,11 +3,7 @@
 버전쪼개기
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 delete123
 =======
 delete
 >>>>>>> parent of 5511aec... 1
-=======
-delete1
->>>>>>> parent of b51a575... 2
