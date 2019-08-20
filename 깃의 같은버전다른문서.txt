@@ -2,4 +2,8 @@
 
 버전쪼개기
 
+<<<<<<< HEAD
 delete123
+=======
+delete
+>>>>>>> parent of 5511aec... 1
