@@ -2,4 +2,4 @@
 
 버전쪼개기
 
-delete1
+delete12
